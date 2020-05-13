@@ -6,4 +6,4 @@ session_start();
 session_destroy();
 
 // mengalihkan halaman login
-header("location:login.php?pesan=anda berhasil logout.");
+header("location:login.php?pesan=anda berhasil logout");

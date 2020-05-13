@@ -39,7 +39,7 @@
                       <h1 class="h4 text-gray-900 mb-4">Login Page</h1>
                     </div>
                     <?php if (isset($_GET['pesan'])) {  ?>
-                      <label style="color:red;"><?php echo $_GET['pesan']; ?></label>
+                      <label style="color: red"><?php echo $_GET['pesan']; ?></label>
                     <?php } ?>
                     <form class="user">
                       <div class="form-group">
