@@ -63,8 +63,8 @@ if ($_SESSION['status'] != "sudah_login") {
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Pilih Menu :</h6>
-            <a class="collapse-item" href="lihat_surat.html">Lihat Surat</a>
-            <a class="collapse-item" href="buat_surat.html">Buat Surat</a>
+            <a class="collapse-item" href="lihat_surat.php">Lihat Surat</a>
+            <a class="collapse-item" href="buat_surat.php">Buat Surat</a>
           </div>
         </div>
       </li>
