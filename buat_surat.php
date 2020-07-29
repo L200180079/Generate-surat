@@ -156,7 +156,7 @@ if ($_SESSION['status'] != "sudah_login") {
                                                     <img class="card-img-top" src="img/surat_icon.png" height="180">
                                                     <div class="card-body">
                                                         <center>
-                                                            <p class="card-text">Peminjaman Ruangan</p><a href="#" class="btn btn-info">Buat Surat</a>
+                                                            <p class="card-text">Peminjaman Ruangan</p><a href="form1.html" class="btn btn-info">Buat Surat</a>
                                                         </center>
                                                     </div>
                                                 </div>
